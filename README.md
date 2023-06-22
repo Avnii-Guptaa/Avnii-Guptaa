@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avnii-guptaa&label=Profile%20views&color=0e75b6&style=flat" alt="avnii-guptaa" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,POWER-BI,TABULEAU,MUSQL**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,POWER-BI,TABULEAU,MYSQL**
 
 - 👯 I’m looking to collaborate on **DEVELOPMENT PROJECTS REQUIRING FRONTEND SKILLS**
 
